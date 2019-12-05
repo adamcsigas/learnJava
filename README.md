@@ -23,7 +23,7 @@ This readme describes my journey with Java, includes some info I found interesti
 ### 2019.12.04
 Day off
 
-###
+### 2019.12.05
 - Creating simple function syntaxes.
 - watching JAVA tutorial videos.
 
