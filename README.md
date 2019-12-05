@@ -12,6 +12,7 @@ This readme describes my journey with Java, includes some info I found interesti
 
 ## Frequently reoccurring funny words
 - access modifier
+- logical bug
 
 ## Diary
 
